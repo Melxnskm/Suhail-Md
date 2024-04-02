@@ -28,32 +28,32 @@
     "answer": "ساكورا"
   },
   {
-    "question": "بوكو",
-    "answer": "بوكو"
+    "question": "ديكو",
+    "answer": "ديكو"
   },
   {
-    "question": "لوشيا",
-    "answer": "لوشيا"
+    "question": "يوني",
+    "answer": "يوني"
   },
   {
-    "question": "كيرو",
-    "answer": "كيرو"
+    "question": "ياسو",
+    "answer": "ياسو"
   },
   {
     "question": "غوكو",
     "answer": "غوكو"
   },
   {
-    "question": "فيغيتا",
-    "answer": "فيغيتا"
+    "question": "فيجيتا",
+    "answer": "فيجيتا"
   },
   {
     "question": "بولما",
     "answer": "بولما"
   },
   {
-    "question": "تشيش",
-    "answer": "تشيش"
+    "question": "كارما",
+    "answer": "كارما"
   },
   {
     "question": "ياماتو",
@@ -64,8 +64,8 @@
     "answer": "كاكاشي"
   },
   {
-    "question": "سوناد",
-    "answer": "سوناد"
+    "question": "ايرين",
+    "answer": "ايرين"
   },
   {
     "question": "جيرايا",
@@ -80,8 +80,8 @@
     "answer": "شينجي"
   },
   {
-    "question": "سوزيكي",
-    "answer": "سوزيكي"
+    "question": "ايزن",
+    "answer": "ايزن"
   },
   {
     "question": "ايتاشي",
@@ -100,8 +100,8 @@
     "answer": "ساي"
   },
   {
-    "question": "إيروزن",
-    "answer": "إيروزن"
+    "question": "زيرو",
+    "answer": "زيرو"
   },
   {
     "question": "ساسوري",
@@ -132,16 +132,16 @@
     "answer": "ناغاتو"
   },
   {
-    "question": "يواكو",
-    "answer": "يواكو"
+    "question": "باين",
+    "answer": "باين"
   },
   {
     "question": "كيلوا",
     "answer": "كيلوا"
   },
   {
-    "question": "جونتا",
-    "answer": "جونتا"
+    "question": "ايلومي",
+    "answer": "ايلومي"
   },
   {
     "question": "جين",
@@ -156,16 +156,16 @@
     "answer": "ماركو"
   },
   {
-    "question": "شيره",
-    "answer": "شيره"
+    "question": "روجر",
+    "answer": "روجر"
   },
   {
-    "question": "بيج مام",
-    "answer": "بيج مام"
+    "question": "راموس",
+    "answer": "راموس"
   },
   {
-    "question": "كات كوري",
-    "answer": "كات كوري"
+    "question": "كاتاكوري",
+    "answer": "كاتاكوري"
   },
   {
     "question": "دراغون",
@@ -196,20 +196,20 @@
     "answer": "مونكي دي لوفي"
   },
   {
-    "question": "اوس",
-    "answer": "اوس"
+    "question": "ارمين",
+    "answer": "ارمين"
   },
   {
     "question": "جيمبي",
     "answer": "جيمبي"
   },
   {
-    "question": "سيلفر رايلي",
-    "answer": "سيلفر رايلي"
+    "question": "راينر",
+    "answer": "راينر"
   },
   {
-    "question": "كوالا",
-    "answer": "كوالا"
+    "question": "بيرتولد",
+    "answer": "بيرتولد"
   },
   {
     "question": "ميكو",
@@ -226,5 +226,9 @@
   {
     "question": "تشوبر",
     "answer": "تشوبر"
+  },
+  {
+    "question": "هاشيراما",
+    "answer": "هاشيراما"
   }
 ]
