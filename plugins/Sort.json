@@ -200,71 +200,72 @@
         "response": "ه ي س و ك ا"
     },
     {
-       "question": "انوس",
+        "question": "انوس",
         "response": "ا ن و س"
     },
     {
-       "question": "بياكوغان",
+        "question": "بياكوغان",
         "response": "ب ي ا ك و غ ا ن"
     },
     {
-       "question": "شوكو",
+        "question": "شوكو",
         "response": "ش و ك و"
     },
     {
-       "question": "ديكو",
+        "question": "ديكو",
         "response": "د ي ك و"
     },
     {
-       "question": "يامي",
+        "question": "يامي",
         "response": "ي ا م ي"
     },
     {
-       "question": "فانجانس",
+        "question": "فانجانس",
         "response": "ف ا ن ج ا ن س"
     },
     {
-       "question": "يوليوس",
+        "question": "يوليوس",
         "response": "ي و ل ي و س"
     },
     {
-       "question": "تسوموغو",
+        "question": "تسوموغو",
         "response": "ت س و م و غ و"
     },
     {
-       "question": "نانامي",
+        "question": "نانامي",
         "response": "ن ا ن ا م ي"
     },
     {
-       "question": "ايزن",
+        "question": "ايزن",
         "response": "ا ي ز ن"
     },
     {
-       "question": "زاراكي",
+        "question": "زاراكي",
         "response": "ز ا ر ا ك ي"
     },
     {
-       "question": "اوراهارا",
+        "question": "اوراهارا",
         "response": "ا و ر ا ه ا ر ا"
     },
     {
-       "question": "اينوي",
+        "question": "اينوي",
         "response": "ا ي ن و ي"
     },
     {
-       "question": "غوهان",
+        "question": "غوهان",
         "response": "غ و ه ا ن"
     },
     {
-       "question": "كيريلين",
+        "question": "كيريلين",
         "response": "ك ي ر ي ل ي ن"
     },
     {
-       "question": "هيناتسورو",
+        "question": "هيناتسورو",
         "response": "ه ي ن ا ت س و ر و"
     },
     {
-       "question": "ريتشل",
-       "response": "ر ي ت ش ل"
-}
+        "question": "ريتشل",
+        "response": "ر ي ت ش ل"
+    }
 ]
+    
