@@ -1,341 +1,341 @@
 [
   {
     "question": "سانجي",
-    "answer": "س ا ن ج ي"
+    "response": "س ا ن ج ي"
   },
   {
     "question": "لوفي",
-    "answer": "ل و ف ي"
+    "response": "ل و ف ي"
   },
   {
     "question": "زورو",
-    "answer": "ز و ر و"
+    "response": "ز و ر و"
   },
   {
     "question": "نامي",
-    "answer": "ن ا م ي"
+    "response": "ن ا م ي"
   },
   {
     "question": "ناروتو",
-    "answer": "ن ا ر و ت و"
+    "response": "ن ا ر و ت و"
   },
   {
     "question": "ساسكي",
-    "answer": "س ا س ك ي"
+    "response": "س ا س ك ي"
   },
   {
     "question": "ساكورا",
-    "answer": "س ا ك و ر ا"
+    "response": "س ا ك و ر ا"
   },
   {
     "question": "ديكو",
-    "answer": "د ي ك و"
+    "response": "د ي ك و"
   },
   {
     "question": "يوني",
-    "answer": "ي و ن ي"
+    "response": "ي و ن ي"
   },
   {
     "question": "ياسو",
-    "answer": "ي ا س و"
+    "response": "ي ا س و"
   },
   {
     "question": "غوكو",
-    "answer": "غ و ك و"
+    "response": "غ و ك و"
   },
   {
     "question": "فيجيتا",
-    "answer": "ف ي ج ي ت ا"
+    "response": "ف ي ج ي ت ا"
   },
   {
     "question": "بولما",
-    "answer": "ب و ل م ا"
+    "response": "ب و ل م ا"
   },
   {
     "question": "كارما",
-    "answer": "ك ا ر م ا"
+    "response": "ك ا ر م ا"
   },
   {
     "question": "ياماتو",
-    "answer": "ي ا م ا ت و"
+    "response": "ي ا م ا ت و"
   },
   {
     "question": "كاكاشي",
-    "answer": "ك ا ك ا ش ي"
+    "response": "ك ا ك ا ش ي"
   },
   {
     "question": "ايرين",
-    "answer": "ا ي ر ي ن"
+    "response": "ا ي ر ي ن"
   },
   {
     "question": "جيرايا",
-    "answer": "ج ي ر ا ي ا"
+    "response": "ج ي ر ا ي ا"
   },
   {
     "question": "هيناتا",
-    "answer": "ه ي ن ا ت ا"
+    "response": "ه ي ن ا ت ا"
   },
   {
     "question": "شينجي",
-    "answer": "ش ي ن ج ي"
+    "response": "ش ي ن ج ي"
   },
   {
     "question": "ايزن",
-    "answer": "ا ي ز ن"
+    "response": "ا ي ز ن"
   },
   {
     "question": "ايتاشي",
-    "answer": "ا ي ت ا ش ي"
+    "response": "ا ي ت ا ش ي"
   },
   {
     "question": "مادارا",
-    "answer": "م ا د ا ر ا"
+    "response": "م ا د ا ر ا"
   },
   {
     "question": "هاشيراما",
-    "answer": "ه ا ش ي ر ا م ا"
+    "response": "ه ا ش ي ر ا م ا"
   },
   {
     "question": "ساي",
-    "answer": "س ا ي"
+    "response": "س ا ي"
   },
   {
     "question": "زيرو",
-    "answer": "ز ي ر و"
+    "response": "ز ي ر و"
   },
   {
     "question": "ساسوري",
-    "answer": "س ا س و ر ي"
+    "response": "س ا س و ر ي"
   },
   {
     "question": "ديدارا",
-    "answer": "د ي د ا ر ا"
+    "response": "د ي د ا ر ا"
   },
   {
     "question": "كونان",
-    "answer": "ك و ن ا ن"
+    "response": "ك و ن ا ن"
   },
   {
     "question": "توبي",
-    "answer": "ت و ب ي"
+    "response": "ت و ب ي"
   },
   {
     "question": "زابوزا",
-    "answer": "ز ا ب و ز ا"
+    "response": "ز ا ب و ز ا"
   },
   {
     "question": "رين",
-    "answer": "ر ي ن"
+    "response": "ر ي ن"
   },
   {
     "question": "ناغاتو",
-    "answer": "ن ا غ ا ت و"
+    "response": "ن ا غ ا ت و"
   },
   {
     "question": "باين",
-    "answer": "ب ا ي ن"
+    "response": "ب ا ي ن"
   },
   {
     "question": "كيلوا",
-    "answer": "ك ي ل و ا"
+    "response": "ك ي ل و ا"
   },
   {
     "question": "ايلومي",
-    "answer": "ا ي ل و م ي"
+    "response": "ا ي ل و م ي"
   },
   {
     "question": "جين",
-    "answer": "ج ي ن"
+    "response": "ج ي ن"
   },
   {
     "question": "جونو",
-    "answer": "ج و ن و"
+    "response": "ج و ن و"
   },
   {
     "question": "ماركو",
-    "answer": "م ا ر ك و"
+    "response": "م ا ر ك و"
   },
   {
     "question": "روجر",
-    "answer": "ر و ج ر"
+    "response": "ر و ج ر"
   },
   {
     "question": "راموس",
-    "answer": "ر ا م و س"
+    "response": "ر ا م و س"
   },
   {
     "question": "كاتاكوري",
-    "answer": "ك ا ت ا ك و ر ي"
+    "response": "ك ا ت ا ك و ر ي"
   },
   {
     "question": "دراغون",
-    "answer": "د ر ا غ و ن"
+    "response": "د ر ا غ و ن"
   },
   {
     "question": "رايلي",
-    "answer": "ر ا ي ل ي"
+    "response": "ر ا ي ل ي"
   },
   {
     "question": "كوما",
-    "answer": "ك و م ا"
+    "response": "ك و م ا"
   },
   {
     "question": "سابو",
-    "answer": "س ا ب و"
+    "response": "س ا ب و"
   },
   {
     "question": "كوبي",
-    "answer": "ك و ب ي"
+    "response": "ك و ب ي"
   },
   {
     "question": "شيراهوشي",
-    "answer": "ش ي ر ا ه و ش ي"
+    "response": "ش ي ر ا ه و ش ي"
   },
   {
     "question": "مونكي دي لوفي",
-    "answer": "م و ن ك ي د ي ل و ف ي"
+    "response": "م و ن ك ي د ي ل و ف ي"
   },
   {
     "question": "ارمين",
-    "answer": "ا ر م ي ن"
+    "response": "ا ر م ي ن"
   },
   {
     "question": "جيمبي",
-    "answer": "ج ي م ب ي"
+    "response": "ج ي م ب ي"
   },
   {
     "question": "راينر",
-    "answer": "ر ا ي ن ر"
+    "response": "ر ا ي ن ر"
   },
   {
     "question": "بيرتولد",
-    "answer": "ب ي ر ت و ل د"
+    "response": "ب ي ر ت و ل د"
   },
   {
     "question": "ميكو",
-    "answer": "م ي ك و"
+    "response": "م ي ك و"
   },
   {
     "question": "باراماونت",
-    "answer": "ب ا ر ا م ا و ن ت"
+    "response": "ب ا ر ا م ا و ن ت"
   },
   {
     "question": "ساي",
-    "answer": "س ا ي"
+    "response": "س ا ي"
   },
   {
     "question": "تشوبر",
-    "answer": "ت ش و ب ر"
+    "response": "ت ش و ب ر"
   },
   {
     "question": "هاشيراما",
-    "answer": "ه ا ش ي ر ا م ا"
+    "response": "ه ا ش ي ر ا م ا"
   },
   {
     "question": "جوكو",
-    "answer": "ج و ك و"
+    "response": "ج و ك و"
   },
   {
     "question": "انوس",
-    "answer": "ا ن و س"
+    "response": "ا ن و س"
   },
   {
     "question": "بيروس",
-    "answer": "ب ي ر و س"
+    "response": "ب ي ر و س"
   },
   {
     "question": "هيسوكا",
-    "answer": "ه ي س و ك ا"
+    "response": "ه ي س و ك ا"
   },
   {
     "question": "ميليوداس",
-    "answer": "م ي ل ي و د ا س"
+    "response": "م ي ل ي و د ا س"
   },
   {
     "question": "اليزابيث",
-    "answer": "ا ل ي ز ا ب ي ث"
+    "response": "ا ل ي ز ا ب ي ث"
   },
   {
     "question": "باندورا",
-    "answer": "ب ا ن د و ر ا"
+    "response": "ب ا ن د و ر ا"
   },
   {
     "question": "ايس",
-    "answer": "ا ي س"
+    "response": "ا ي س"
   },
   {
     "question": "الان",
-    "answer": "ا ل ا ن"
+    "response": "ا ل ا ن"
   },
   {
     "question": "شيزو",
-    "answer": "ش ي ز و"
+    "response": "ش ي ز و"
   },
   {
     "question": "هيكارو",
-    "answer": "ه ي ك ا ر و"
+    "response": "ه ي ك ا ر و"
   },
   {
     "question": "روديوس",
-    "answer": "ر و د ي و س"
+    "response": "ر و د ي و س"
   },
   {
     "question": "ايزومي",
-    "answer": "ا ي ز و م ي"
+    "response": "ا ي ز و م ي"
   },
   {
     "question": "كينتو",
-    "answer": "ك ي ن ت و"
+    "response": "ك ي ن ت و"
   },
   {
     "question": "لايت",
-    "answer": "ل ا ي ت"
+    "response": "ل ا ي ت"
   },
   {
     "question": "موساشي",
-    "answer": "م و س ا ش ي"
+    "response": "م و س ا ش ي"
   },
   {
     "question": "جينتو",
-    "answer": "ج ي ن ت و"
+    "response": "ج ي ن ت و"
   },
   {
     "question": "سيشومارو",
-    "answer": "س ي ش و م ا ر و"
+    "response": "س ي ش و م ا ر و"
   },
   {
     "question": "شيا",
-    "answer": "ش ي ا"
+    "response": "ش ي ا"
   },
   {
     "question": "ناتسو",
-    "answer": "ن ا ت س و"
+    "response": "ن ا ت س و"
   },
   {
     "question": "هارو",
-    "answer": "ه ا ر و"
+    "response": "ه ا ر و"
   },
   {
     "question": "رين",
-    "answer": "ر ي ن"
+    "response": "ر ي ن"
   },
   {
     "question": "اورا",
-    "answer": "ا و ر ا"
+    "response": "ا و ر ا"
   },
   {
     "question": "بانا",
-    "answer": "ب ا ن ا"
+    "response": "ب ا ن ا"
   },
   {
     "question": "جينوس",
-    "answer": "ج ي ن و س"
+    "response": "ج ي ن و س"
   },
   {
     "question": "سيكي",
-    "answer": "س ي ك ي"
+    "response": "س ي ك ي"
   },
-  {
+ {
     "question": "ماركو",
     "answer": "م ا ر ك و"
   }
